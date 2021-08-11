@@ -1,0 +1,22 @@
+/* Write your code here. */
+.app-container-card {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  min-height: 100vh;
+}
+
+.emojis-game-card-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin-top: 40px;
+}
+
+.emojis-list-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  width: 60%;
+  flex-wrap: wrap;
+}
